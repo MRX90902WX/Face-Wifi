@@ -1,5 +1,7 @@
 #! /bin/bash
 
+git clone https://github.com/MRX90902WX/css
+git clone https://github.com/MRX90902WX/js
 clear
 echo ""
 setterm -foreground red
